@@ -9,7 +9,7 @@
 </div>
 
 <div>
-    <p> <b>Languages:</b> C++; C; C#; Java; JavaScript <br> <b>Tools/Environment:</b> AWS; Rider; Xcode; Visual Studio Code; Perforce; Git <br> <b>Softwares:</b> Docker; MATLAB; R <br> <b>Game Engine:</b> Unreal Engine; Unity</p>
+    <p> <b>Languages:</b> C++, C, C#, Java, JavaScript <br> <b>Tools/Environment:</b> AWS, Rider, Xcode, Visual Studio Code, Perforce, Git <br> <b>Softwares:</b> Docker, MATLAB, R <br> <b>Game Engine:</b> Unreal Engine, Unity</p>
 </div>
 
 <div>
