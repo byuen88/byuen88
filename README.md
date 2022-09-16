@@ -9,11 +9,11 @@
 </div>
 
 <div>
-    <p> <b>Languages:</b> C++, C, C#, Java, JavaScript <br> <b>Tools/Environment:</b> AWS, Rider, Xcode, Visual Studio Code, Perforce, Git <br> <b>Softwares:</b> Docker, MATLAB, R <br> <b>Game Engine:</b> Unreal Engine, Unity</p>
+    <p> <b>Languages:</b> C++, C, C#, Java, JavaScript <br> <b>Tools/Environment:</b> AWS, GameAnalytics, Perforce, Git <br> <b>Softwares:</b> Docker, MATLAB, R <br> <b>Game Engine:</b> Unreal Engine, Unity</p>
 </div>
 
 <div>
-    <p> I am currently working as a software engineer intern at Sun Machine Games! </b>.
+    <p> I am currently studying Computer Science at the University of British Columbia </b>.
 </div>
 
 <br>
