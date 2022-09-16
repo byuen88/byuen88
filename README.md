@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <p> I am currently studying Computer Science at the University of British Columbia </b>.
+    <p> I am currently studying Computer Science at the University of British Columbia. </b>
 </div>
 
 <br>
