@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <p> My name is <b>Brandon Yuen</b> <br> I am a 3rd year student studying Computer Science at the <b>University Of British Columbia</b> </p>
+    <p> My name is <b>Brandon Yuen</b> <br> I am a 4th year student studying Computer Science at the <b>University Of British Columbia</b> </p>
 </div>
 
 <div>
